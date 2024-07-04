@@ -1,5 +1,7 @@
 # Hey there
 
+[My blog](https://elaina.moe)
+
 ## **About me**
 
 <table style="border:none">
@@ -30,7 +32,43 @@ Welcome to [my blog](https://elaina.moe)! But fair warning, it's all in Chinese!
 
 ## Languages
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript
+)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript
+)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react
+)
+![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next.js
+)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=Vue.js
+)
+![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxt.js
+)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js
+)
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-black?style=for-the-badge&logo=webassembly
+)
+![Tauri](https://img.shields.io/badge/-Tauri-black?style=for-the-badge&logo=tauri
+)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiko233&layout=compact&bg_color=ffffff&title_color=FF1958&theme=swift&exclude_repo=kernel_xiaomi_odin,subconverter-meta)
+
+## Need a job
+
+<table style="border:none">
+<tr>
+  <td style="vertical-align: top">
+    <img width="300" alt="nooooo!" src="./assets/ec1e34ba13292f224198036cde369ba7.jpg" >
+  </td>
+
+  <td>
+  
+  I need a job to support myself. If you also need a partner, please contact me via email(i@elaina.moe).
+
+  </td>
+</tr>
+</table>
+
 
 ## Visited By
 
