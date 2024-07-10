@@ -63,7 +63,9 @@ Welcome to [my blog](https://elaina.moe)! But fair warning, it's all in Chinese!
 
   <td>
   
-  I need a job to support myself. If you also need a partner, please contact me via email(i@elaina.moe).
+  I need a job to support myself. If you also need a partner, please contact me via email(i@elaina.moe).😊
+
+  我需要一份工作。如果你也需要一位合作伙伴，可以通过电子邮件联系我: i@elaina.moe 。期待和你一起共事。😊
 
   </td>
 </tr>
