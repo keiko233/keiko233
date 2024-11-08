@@ -53,25 +53,6 @@ Welcome to [my blog](https://elaina.moe)! But fair warning, it's all in Chinese!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiko233&layout=compact&bg_color=ffffff&title_color=FF1958&theme=swift&exclude_repo=kernel_xiaomi_odin,subconverter-meta)
 
-## Need a job
-
-<table style="border:none">
-<tr>
-  <td style="vertical-align: top">
-    <img width="300" alt="nooooo!" src="./assets/ec1e34ba13292f224198036cde369ba7.jpg" >
-  </td>
-
-  <td>
-  
-  I need a job to support myself. If you also need a partner, please contact me via email(i@elaina.moe).😊
-
-  我需要一份工作。如果你也需要一位合作伙伴，可以通过电子邮件联系我: i@elaina.moe 。期待和你一起共事。😊
-
-  </td>
-</tr>
-</table>
-
-
 ## Visited By
 
 ![Visited By](https://count.getloli.com/get/@keiko233?theme=gelbooru)
